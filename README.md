@@ -49,4 +49,4 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um 
 
 - Nome: Julio C P Daloia
 - Email: bjzzye@gmail.com
-- LinkedIn: www.likedin.com/in/julio-dev-plaza
+- LinkedIn: https://www.linkedin.com/in/julio-dev-plaza
