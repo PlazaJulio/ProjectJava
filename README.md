@@ -4,14 +4,10 @@ Este é o Screen Match, um programa Java que permite ao usuário interagir com i
 
 ## Pré-requisitos
 
-- Java JDK (versão X.X.X)
+- Java JDK (versão 17 ou superior)
 - Outras dependências específicas do projeto, se houver
 
-## Configuração do Ambiente
 
-1. Passo 1 para configurar o ambiente.
-2. Passo 2 para configurar o ambiente.
-3. Passo 3 para configurar o ambiente.
 
 ## Como executar o programa
 
